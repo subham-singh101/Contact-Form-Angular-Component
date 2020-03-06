@@ -9,3 +9,6 @@ Navigate to the directory
 Run `npm install` to install the packages.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+
+![alt tag](img/img.png "Error Validation in Contact Form")
